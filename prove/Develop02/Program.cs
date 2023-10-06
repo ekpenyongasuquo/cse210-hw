@@ -39,8 +39,8 @@ public class Program
 
                     using (StreamWriter outputFile = new StreamWriter(file))
                     {
-                        // You can add text to the file with the WriteLine method
-                        // You can use the $ and include variables just like with Console.WriteLine
+
+
                         foreach (Entry entry in journal._entries)
                         {
                             outputFile.WriteLine($"Date: {entry._date} - {entry._prompt} {entry._answer}");
@@ -49,7 +49,7 @@ public class Program
                     break;
 
                 case 4: // LOAD
-                    Console.WriteLine("Enter the name of the file: ");
+                    Console.WriteLine("Enter the file name: ");
                     string fileName = Console.ReadLine();
 
                     if (File.Exists(fileName))
@@ -72,7 +72,7 @@ public class Program
 
                     else
                     {
-                        Console.WriteLine($"I couldn't find the file: {fileName}");
+                        Console.WriteLine($"I can not find the file: {fileName}");
                     }
                     break;
             }
