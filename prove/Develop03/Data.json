@@ -1,0 +1,218 @@
+[
+    {
+     "key": 1,
+     "book": "Matthew",
+     "chapter": 5,
+     "verseStart": 14,
+     "verseEnd": 16,
+     "keyPhrase": "Let your light so shine before men",
+     "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.  Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.  Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+    },
+    {
+     "key": 2,
+     "book": "Matthew",
+     "chapter": 11,
+     "verseStart": 28,
+     "verseEnd": 30,
+     "keyPhrase": "Come unto me, all ye that labour and are heavy laden, and I will give you rest",
+     "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.  Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.  For my yoke is easy, and my burden is light."
+    },
+    {
+     "key": 3,
+     "book": "Matthew",
+     "chapter": 16,
+     "verseStart": 15,
+     "verseEnd": 19,
+     "keyPhrase": "Jesus said, I will give unto thee the keys of the kingdom",
+     "text": "He saith unto them, But whom say ye that I am?  And Simon Peter answered and said, Thou art the Christ, the Son of the living God.  And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.  And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.  And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
+    },
+    {
+     "key": 4,
+     "book": "Matthew",
+     "chapter": 22,
+     "verseStart": 36,
+     "verseEnd": 39,
+     "keyPhrase": "Thou shalt love the Lord thy God … Thou shalt love thy neighbour",
+     "text": "Master, which is the great commandment in the law?  Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.  This is the first and great commandment.  And the second is like unto it, Thou shalt love thy neighbour as thyself."
+    },
+    {
+     "key": 5,
+     "book": "Luke",
+     "chapter": 2,
+     "verseStart": 10,
+     "verseEnd": 12,
+     "keyPhrase": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord",
+     "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.  For unto you is born this day in the city of David a Saviour, which is Christ the Lord.  And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+    },
+    {
+     "key": 6,
+     "book": "Luke",
+     "chapter": 22,
+     "verseStart": 19,
+     "verseEnd": 20,
+     "keyPhrase": "Jesus Christ commanded, partake of the sacrament in remembrance of me",
+     "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.  Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+    },
+    {
+     "key": 7,
+     "book": "Luke",
+     "chapter": 24,
+     "verseStart": 36,
+     "verseEnd": 39,
+     "keyPhrase": "For a spirit hath not flesh and bones, as ye see me have",
+     "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.  But they were terrified and affrighted, and supposed that they had seen a spirit.  And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?  Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+    },
+    {
+     "key": 8,
+     "book": "John",
+     "chapter": 3,
+     "verseStart": 5,
+     "verseEnd": 0,
+     "keyPhrase": "Except a man be born of water, and of the Spirit, he cannot enter into the kingdom of God",
+     "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+    },
+    {
+     "key": 9,
+     "book": "John",
+     "chapter": 3,
+     "verseStart": 16,
+     "verseEnd": 0,
+     "keyPhrase": "For God so loved the world, that he gave his only begotten Son",
+     "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    },
+    {
+     "key": 10,
+     "book": "John",
+     "chapter": 7,
+     "verseStart": 17,
+     "verseEnd": 0,
+     "keyPhrase": "If any man will do his will, he shall know of the doctrine",
+     "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+    },
+    {
+     "key": 11,
+     "book": "John",
+     "chapter": 17,
+     "verseStart": 3,
+     "verseEnd": 0,
+     "keyPhrase": "And this is life eternal, that they might know thee the only true God, and Jesus Christ",
+     "text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."
+    },
+    {
+     "key": 12,
+     "book": "1 Corinthians",
+     "chapter": 6,
+     "verseStart": 19,
+     "verseEnd": 20,
+     "keyPhrase": "Your body is the temple of the Holy Ghost",
+     "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?  For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+    },
+    {
+     "key": 13,
+     "book": "1 Corinthians",
+     "chapter": 11,
+     "verseStart": 11,
+     "verseEnd": 0,
+     "keyPhrase": "Neither is the man without the woman, neither the woman without the man, in the Lord",
+     "text": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
+    },
+    {
+     "key": 14,
+     "book": "1 Corinthians",
+     "chapter": 15,
+     "verseStart": 20,
+     "verseEnd": 22,
+     "keyPhrase": "As in Adam all die, even so in Christ shall all be made alive",
+     "text": "But now is Christ risen from the dead, and become the first fruits of them that slept.  For since by man came death, by man came also the resurrection of the dead.   For as in Adam all die, even so in Christ shall all be made alive."
+    },
+    {
+     "key": 15,
+     "book": "1 Corinthians",
+     "chapter": 15,
+     "verseStart": 40,
+     "verseEnd": 42,
+     "keyPhrase": "In the Resurrection, there are three degrees of glory",
+     "text": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.  There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.   So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:"
+    },
+    {
+     "key": 16,
+     "book": "Ephesians",
+     "chapter": 1,
+     "verseStart": 10,
+     "verseEnd": 0,
+     "keyPhrase": "In the dispensation of the fulness of times he might gather together in one all things in Christ",
+     "text": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+    },
+    {
+     "key": 17,
+     "book": "Ephesians",
+     "chapter": 2,
+     "verseStart": 19,
+     "verseEnd": 20,
+     "keyPhrase": "The Church is built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone",
+     "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;  And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;"
+    },
+    {
+     "key": 18,
+     "book": "2 Thessalonians",
+     "chapter": 2,
+     "verseStart": 1,
+     "verseEnd": 3,
+     "keyPhrase": "The day of Christ … shall not come, except there come a falling away first",
+     "text": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,  That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.  Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;"
+    },
+    {
+     "key": 19,
+     "book": "2 Timothy",
+     "chapter": 3,
+     "verseStart": 15,
+     "verseEnd": 17,
+     "keyPhrase": "The holy scriptures … are able to make thee wise unto salvation",
+     "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.  All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:  That the man of God may be perfect, throughly furnished unto all good works."
+    },
+    {
+     "key": 20,
+     "book": "Hebrews",
+     "chapter": 12,
+     "verseStart": 9,
+     "verseEnd": 0,
+     "keyPhrase": "Heavenly Father is the Father of spirits",
+     "text": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?"
+    },
+    {
+     "key": 21,
+     "book": "James",
+     "chapter": 1,
+     "verseStart": 5,
+     "verseEnd": 6,
+     "keyPhrase": "If any of you lack wisdom, let him ask of God",
+     "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.  But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+    },
+    {
+     "key": 22,
+     "book": "James",
+     "chapter": 2,
+     "verseStart": 17,
+     "verseEnd": 18,
+     "keyPhrase": "Faith, if it hath not works, is dead",
+     "text": "Even so faith, if it hath not works, is dead, being alone.  Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+    },
+    {
+     "key": 23,
+     "book": "1 Peter",
+     "chapter": 4,
+     "verseStart": 6,
+     "verseEnd": 0,
+     "keyPhrase": "The gospel [was] preached also to them that are dead",
+     "text": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit."
+    },
+    {
+     "key": 24,
+     "book": "Revelation",
+     "chapter": 20,
+     "verseStart": 12,
+     "verseEnd": 0,
+     "keyPhrase": "And the dead were judged … according to their works",
+     "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+    }
+   ]
