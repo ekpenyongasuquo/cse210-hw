@@ -16,7 +16,7 @@ class Program
         scripture.LoadScriptures();
         Word word = new Word();
 
-        Console.Write("\n**** Welcome to the Scripture Memorizer App ****\n");
+        Console.Write("\n**** Welcome to the Scripture App ****\n");
 
         int userChoice = 0;
 
@@ -46,10 +46,10 @@ class Program
                     word.Show(ref1);
                     break;
                 case 3:
-                    Console.WriteLine("\n*** Thanks for playing! ***\n");
+                    Console.WriteLine("\n*** Thank you for playing! ***\n");
                     break;
                 default:
-                    Console.WriteLine($"\nSorry the option you entered is not valid.");
+                    Console.WriteLine($"\nSorry the option you entered is invalid.");
                     break;
             }
         }
