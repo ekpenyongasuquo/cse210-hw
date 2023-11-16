@@ -6,7 +6,7 @@ public abstract class Goal
     protected int _points;
     protected int _type;
 
-    public Goal (string name, string description, int points, bool isCompleted)
+    public Goal(string name, string description, int points, bool isCompleted)
     {
         _name = name;
         _description = description;
@@ -15,7 +15,7 @@ public abstract class Goal
     }
 
     public abstract void SetIsCompleted();
-    public abstract void DisplayGoal(int option); //user.RecordEvent will use the option to show a list of the goals without the checkbox and description
+    public abstract void DisplayGoal(int option);
     public abstract string GetStringRep();
 
 
